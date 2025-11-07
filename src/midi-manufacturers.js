@@ -361,6 +361,7 @@ export const NSI_CORPORATION = "00 00 3E";
 export const NUMARK_INDUSTRIES = "00 01 3F";
 export const NVIDIA = "00 00 7A";
 export const OBERHEIM__GIBSON_LABS = "10";
+export const OKI_ELECTRIC_INDUSTRY_CO_LTD = "5D";
 export const ONSONG_LLC = "00 02 24";
 export const OPCODE_SYSTEMS = "00 00 16";
 export const OPEN_LABS = "00 01 4D";
@@ -1112,7 +1113,7 @@ export default {
     [FUJITSU_LIMITED]: "Fujitsu Limited",
     [SONY_CORPORATION]: "Sony Corporation",
     [TEAC_CORPORATION]: "Teac Corporation",
-    [MATSUSHITA_ELECTRIC_INDUSTRIAL_CO__LTD]: "Matsushita Electric Industrial Co. , Ltd",
+    [MATSUSHITA_ELECTRIC_INDUSTRIAL_CO__LTD]: "Matsushita Electric Industrial Co., Ltd",
     [FOSTEX_CORPORATION]: "Fostex Corporation",
     [ZOOM_CORPORATION]: "Zoom Corporation",
     [MATSUSHITA_COMMUNICATION_INDUSTRIAL_CO_LTD]: "Matsushita Communication Industrial Co., Ltd.",
@@ -1126,6 +1127,7 @@ export default {
     [CRIMSON_TECHNOLOGY_INC]: "Crimson Technology Inc.",
     [SOFTBANK_MOBILE_CORP]: "Softbank Mobile Corp",
     [DM_HOLDINGS_INC]: "D&M Holdings Inc."
+    [OKI_ELECTRIC_INDUSTRY_CO_LTD]: "Oki Electric Industry Co. Ltd",
 }
 
 /*
